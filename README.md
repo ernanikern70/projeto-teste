@@ -764,4 +764,3 @@ pull.ff only		Só puxa se puder fazer fast-forward	Linear		Não (ou falha)
 linha 764 ====
 linha 765 ====
 linha 766 ====
-linha 765 ====
