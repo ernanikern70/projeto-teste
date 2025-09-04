@@ -1,0 +1,15 @@
+Filesystem                         Size  Used Avail Use% Mounted on
+Remoto-----------------------------xxxx--yyyy-zzzz--%%%%-linha remoto
+tmpfs                              1.6G  2.7M  1.6G   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv  466G   84G  359G  19% /
+tmpfs                              7.7G  832M  6.9G  11% /dev/shm
+tmpfs                              5.0M   16K  5.0M   1% /run/lock
+efivarfs                           192K  184K  3.6K  99% /sys/firmware/efi/efivars
+tmpfs                              7.7G     0  7.7G   0% /run/qemu
+/dev/nvme0n1p2                     2.0G  301M  1.5G  17% /boot
+/dev/nvme0n1p1                     1.1G   24M  1.1G   3% /boot/efi
+tmpfs                              1.6G  268K  1.6G   1% /run/user/1000
+pCloud.fs                          500G     0  500G   0% /home/ernani/pCloudDrive
+/dev/sda1                          916G  211G  659G  25% /mnt/storage
+//trt4.gov.br/arquivos             223G  109G  114G  49% /mnt/rede
+//trt4.gov.br/arquivos/USR         8.0T  5.5T  2.6T  69% /mnt/rede/USR
