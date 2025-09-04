@@ -10,6 +10,6 @@ tmpfs                              7.7G     0  7.7G   0% /run/qemu
 tmpfs                              1.6G  268K  1.6G   1% /run/user/1000
 pCloud.fs                          500G     0  500G   0% /home/ernani/pCloudDrive
 /dev/sda1                          916G  211G  659G  25% /mnt/storage
-Local------------------------------xxxx--yyyy--zzzz--%%%-Linha Local
+Local------------------------------xxxx--yyyy--zzzz--%%%-Linha Local---
 //trt4.gov.br/arquivos             223G  109G  114G  49% /mnt/rede
 //trt4.gov.br/arquivos/USR         8.0T  5.5T  2.6T  69% /mnt/rede/USR
