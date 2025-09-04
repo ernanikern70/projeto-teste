@@ -14,5 +14,6 @@ lrwxrwxrwx  1 ernani ernani    10 Feb 28  2025 rede -> /mnt/rede/
 lrwxrwxrwx  1 ernani ernani    20 Feb 28  2025 Setic -> /mnt/rede/USR/SETIC/
 drwx------  7 ernani ernani  4096 May 15 09:00 snap
 lrwxrwxrwx  1 ernani ernani    13 Feb 28  2025 storage -> /mnt/storage/
--rw-rw-r--  1 ernani ernani     0 Sep  4 09:25 teste
 lrwxrwxrwx  1 ernani ernani    30 Mar 21 14:29 virtual_machines -> /mnt/storage/virtual_machines/
+total 4
+-rw-rw-r-- 1 ernani ernani 1090 Sep  4 10:23 texto
