@@ -1,0 +1,18 @@
+total 65
+drwxrwxr-x  7 ernani ernani  4096 May 21 08:40 bkp_lenovo
+drwxrwxr-x  2 ernani ernani  4096 Jul  8 09:57 Camera
+drwxr-xr-x  2 ernani ernani  4096 Aug 26 12:15 Desktop
+lrwxrwxrwx  1 ernani ernani    34 Mar 21 14:30 DIRT -> /home/ernani/pCloudDrive/TRT/DIRT/
+drwxr-xr-x  2 ernani ernani 28672 Sep  3 13:48 Downloads
+drwxrwxr-x  7 ernani ernani  4096 Aug 20 13:52 GNS3
+lrwxrwxrwx  1 ernani ernani    35 Feb 28  2025 Infraestrutura -> /mnt/rede/USR/SETIC/INFRAESTRUTURA/
+drwxr-xr-x  4 ernani ernani  4096 Jul 11 00:14 p4v-2025.2.2796382
+drwxr-xr-x 34 ernani ernani  4096 Aug 15 09:53 pCloudDrive
+drwxrwxr-x  9 ernani ernani  4096 Sep  3 12:12 projetos github
+-rw-rw-r--  1 ernani ernani   725 Aug 27 10:06 qemu-gns3.zip
+lrwxrwxrwx  1 ernani ernani    10 Feb 28  2025 rede -> /mnt/rede/
+lrwxrwxrwx  1 ernani ernani    20 Feb 28  2025 Setic -> /mnt/rede/USR/SETIC/
+drwx------  7 ernani ernani  4096 May 15 09:00 snap
+lrwxrwxrwx  1 ernani ernani    13 Feb 28  2025 storage -> /mnt/storage/
+-rw-rw-r--  1 ernani ernani     0 Sep  4 09:25 teste
+lrwxrwxrwx  1 ernani ernani    30 Mar 21 14:29 virtual_machines -> /mnt/storage/virtual_machines/
