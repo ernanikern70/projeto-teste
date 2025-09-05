@@ -1,7 +1,7 @@
-user.email=ernani.kern@gmail.com ## main
-user.name=Ernani Kern           ## main
-core.editor=vim                 ## main 2
-mergetool.prompt=false          ## main 2
+user.email=ernani.kern@gmail.com
+user.name=Ernani Kern          
+core.editor=vim                 
+mergetool.prompt=false         
 mergetool.p4merge.cmd=/usr/local/bin/p4merge
 mergetool.p4merge.path=/home/ernani/bkp_lenovo/p4v-2025.2.2796382/bin/
 merge.tool=p4merge
