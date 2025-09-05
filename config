@@ -1,5 +1,5 @@
-user.email=ernani.kern@gmail.com
-user.name=Ernani Kern
+user.email=ernani.kern@gmail.com ## main
+user.name=Ernani Kern           ## main
 core.editor=vim
 mergetool.prompt=false
 mergetool.p4merge.cmd=/usr/local/bin/p4merge
